@@ -1,0 +1,15 @@
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\bin\Debug\net7.0\osactivity.exe
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\bin\Debug\net7.0\osactivity.deps.json
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\bin\Debug\net7.0\osactivity.runtimeconfig.json
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\bin\Debug\net7.0\osactivity.dll
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\bin\Debug\net7.0\osactivity.pdb
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.csproj.AssemblyReference.cache
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.AssemblyInfoInputs.cache
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.AssemblyInfo.cs
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.csproj.CoreCompileInputs.cache
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.dll
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\refint\osactivity.dll
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.pdb
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\osactivity.genruntimeconfig.cache
+C:\LearnBasicPL\C#\os2\osactivity\osactivity\obj\Debug\net7.0\ref\osactivity.dll
